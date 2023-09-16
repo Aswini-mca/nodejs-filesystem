@@ -2,8 +2,8 @@ Render URL: https://nodejs-filesystem-7596.onrender.com
 
 API endpoints are:
 
-1.'/createFile' =>  to create a text file in a particular folder
-2.'/getFiles'   =>  to retrieve all the text files in that particular folder
+1.'/createFile' =>  to create a text file in a particular folder // post request
+2.'/getFiles'   =>  to retrieve all the text files in that particular folder // get request
 
 
 GITHUB repository URL: https://github.com/Aswini-mca/nodejs-filesystem/tree/main
